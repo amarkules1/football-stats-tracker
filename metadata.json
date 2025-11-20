@@ -1,0 +1,5 @@
+{
+  "name": "Gridiron AI Extractor",
+  "description": "An AI-powered tool to retrieve, structure, and analyze historical NFL game data and player statistics using Google Gemini with Search Grounding.",
+  "requestFramePermissions": []
+}
